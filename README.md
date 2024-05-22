@@ -7,5 +7,5 @@
 </div>
 
 <div style="display: inline_block"><br>
-  <i class="devicon-rails-plain colored"></i>
+  <i height="20px" width="20px" class="devicon-rails-plain colored"></i>
 </div>
