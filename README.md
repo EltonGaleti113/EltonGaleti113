@@ -1,5 +1,4 @@
 ## Olá 👋, Seja Bem Vindo
-- Atualmente trabalhando com Ruby ♦️
 - php 🐘
 <div>
   
